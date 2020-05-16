@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng-fraction"
+  "defaultProject": "ng-fraction",
+  "cli": {
+    "analytics": "2e7a610a-1a59-417e-aa6d-3036e0a64c9e"
+  }
 }
